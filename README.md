@@ -1,4 +1,4 @@
-# Linebot-Day3
+# Chatbot-Day3
 
 練習用Python連接PostgreSQL
 
